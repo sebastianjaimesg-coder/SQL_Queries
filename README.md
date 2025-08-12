@@ -19,9 +19,9 @@ They can be used as quick reference material or as part of a learning path for S
 3. Run the queries to see the results in action.
 4. Modify conditions and values to explore different outputs.
 
-5. ## Bibliography / Sources
+## Bibliography / Sources
 - [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
-- [COMPLETE Course on SQL and DATABASES From Scratch for BEGINNERS](https://www.youtube.com/watch?v=OuJerKzV5T0&t=18964s)
+- [Complete Course on SQL and databases from Scratch for beginners](https://www.youtube.com/watch?v=OuJerKzV5T0&t=18964s)
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 
 ---
