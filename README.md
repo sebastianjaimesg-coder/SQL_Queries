@@ -2,54 +2,28 @@
 This repository contains organized examples of MySQL commands, structured into folders according to their main functionality.
 Each script demonstrates practical usage of SQL syntax for learning, practice, and quick reference.
 
-Folder Structure
-1. Writing
-Examples of writing and modifying data inside tables:
+## | Folder | Content |
+|**Writing** | Examples of writing and modifying data inside tables |
+|**Table** | Commands related to table creation and structure management |
+|**Databases** | Commands for database-level management |
+|**Join** | Examples of combining data from multiple tables |
+|**Advanced Functions** | Examples of more complex MySQL functionalities |
 
-    INSERT INTO – Add new records.
-    
-    UPDATE – Modify existing records.
-    
-    DELETE – Remove records.
+## Purpose
+The goal of these scripts is to **practice SQL reading and comprehension** by exploring how different commands work in real queries.  
+They can be used as quick reference material or as part of a learning path for SQL fundamentals.
 
-2. Table
-Commands related to table creation and structure management:
+## How to Use
+1. Open any `.sql` file in your preferred SQL editor.
+2. Review the queries and adapt them to your own database schema.
+3. Run the queries to see the results in action.
+4. Modify conditions and values to explore different outputs.
 
-    CREATE TABLE – Define new tables with columns and data types.
-    
-    DROP TABLE – Delete entire tables.
-    
-    ALTER TABLE – Modify table structure (add, remove, or change columns).
-    
-    Relations – Examples of primary keys, foreign keys, and relationships between tables.
+5. ## Bibliography / Sources
+- [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
+- [COMPLETE Course on SQL and DATABASES From Scratch for BEGINNERS](https://www.youtube.com/watch?v=OuJerKzV5T0&t=18964s)
+- [MySQL Documentation](https://dev.mysql.com/doc/)
 
-3. Databases
-    Commands for database-level management:
-    
-    CREATE DATABASE – Create new databases.
-    
-    DROP DATABASE – Remove databases.
-
-4. Join
-Examples of combining data from multiple tables:
-
-    INNER JOIN
-    
-    LEFT JOIN
-    
-    RIGHT JOIN
-    
-    UNION
-    
-    Advanced joins – Complex queries with multiple joins and conditions.
-
-5. Advanced Functions
-Examples of more complex MySQL functionalities:
-
-    Aggregation functions (COUNT, SUM, AVG, etc.)
-    
-    String functions
-    
-    Date and time functions
-    
-    Conditional expressions (CASE, IF, etc.)
+---
+**Note:**  
+These files are for educational purposes only and do not connect to a specific production database.
