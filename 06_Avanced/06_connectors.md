@@ -5,7 +5,7 @@ config ={
     "port": "3306",
     "database": "hello_mysql",
     "user": "root",
-    "password":"PresarioCQ43*",
+    "password":"Dda32dasDA*",
 }
 
 connection = mysql.connector.connect(**config)
@@ -19,4 +19,5 @@ for row in result:
     print(row)
 
 cursor.close()
+
 connection.close()
