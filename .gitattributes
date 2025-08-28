@@ -1,0 +1,6 @@
+# Force all .sql files to be recognized as SQL
+*.sql linguist-language=SQL
+
+# Mark documentation files so they don't affect language stats
+*.md linguist-documentation
+LICENSE linguist-documentation
