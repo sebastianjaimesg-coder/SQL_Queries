@@ -1,0 +1,5 @@
+# Force all .sql files to be recognized as SQL
+*.sql linguist-language=SQL
+
+# Exclude Markdown files from language statistics
+*.md linguist-detectable=false
